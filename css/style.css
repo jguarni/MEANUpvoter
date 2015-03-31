@@ -1,0 +1,65 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
+
+body {
+    margin: 0px;
+    background-color: #333;
+    font-family: 'Open Sans Condensed', sans-serif;
+      color:white;
+  text-align:center;
+}
+p {
+  font-weight:light;
+  font-size:20px;
+  color:white;
+}
+.petit {
+  font-size:30px;
+  margin-top:-20px;
+}
+#header {
+    position: fixed;
+    top: 50%;
+  margin-top:-50px;
+    height: 100px;
+    width: 100px;
+  left:50%;
+  margin-left:-50px;
+    background-color:white;
+  border-radius:50%;
+}
+
+  #header2 {
+    position: fixed;
+    top: 50%;
+    margin-top:-50px;
+    height: 100px;
+    width: 100px;
+  left:50%;
+    margin-left:-50px;
+    background-color: #333;
+    -webkit-transform: rotate(45deg);
+    border-radius:50%;
+  }
+#header3 {
+   position: fixed;
+    top: 50%;
+  margin-top:-50px;
+    height: 100px;
+    width: 100px;
+  left:50%;
+  margin-left:-50px;
+  background-color:#333;
+  border-radius:30%;
+}
+
+#cercle1 {
+   position: fixed;
+    top: 50%;
+  margin-top:-50px;
+    height: 100px;
+    width: 100px;
+  left:50%;
+  margin-left:-50px;
+    background-color:white;
+  border-radius:50%;
+}
